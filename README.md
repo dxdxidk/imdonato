@@ -4,6 +4,3 @@
 - 👑 Sono Founder di Cubettology Network ...
 - 📫 Vuoi contattarmi? Scrivimi a donato@cubettology.net ...
 
-<!---
-imdonato/imdonato è un repository ✨ speciale ✨ perché il suo `README.md` (questo file) appare sul vostro profilo GitHub. 9 Potete fare clic sul link Anteprima per dare un'occhiata alle vostre modifiche.
---->
